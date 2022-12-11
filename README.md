@@ -1,4 +1,3 @@
-<img src="http://javaops.ru/static/img/logo/javaops_30.png" width="223"/>
 
 ## [Микросервисы. Многомодульный Gradle проект на Spring Cloud](https://javaops.ru/view/cloudjava)
 ### Многомодульный Gradle проект из нескольких микросервисов на стеке [Spring Cloud](https://spring.io/projects/spring-cloud)
